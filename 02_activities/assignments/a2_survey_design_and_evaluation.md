@@ -40,30 +40,37 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `2`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+This survey is designed to find out how the priorities, policy preferences, and views of undecided and indecisive voters with swing preferences across Canada change one month before the federal election, as the party seeks to maintain its lead in the polls and work toward a majority government. The political party will use these insights to improve its platform, strengthen its communication strategies, and address voter concerns.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+-Target population: Canadian citizens aged 18 or older currently residing in competitive swing districts, who are eligible to vote in the upcoming federal election. 
+
+-Sampling frame: commercial online panels,party contact lists, and supplemental mail or in person surveys if necessary. 
+
+-Sampling units: specific households, chosen through a stratified random sampling method.
+
+-Observational units: individual eligible voters randomly selected within each household who are then screened to determine whether they are undecided or have changed their voting preference in the past three months.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How likely are you to vote in the upcoming Canadian federal election? [Options: 1 - Definitely will not vote, 2 - Unlikely to vote, 3 - Somewhat likely to vote, 4 - Very likely to vote, 5 - Definitely will vote] 
+
+2. If the federal election were today, which party’s candidate would you most likely support? [Options: Liberal Party, Conservative Party, New Democratic Party (NDP), Bloc Québécois, Green Party, People's Party, Other/Independent, Undecided]
+
+3. What policy or commitment could our party announce in the last weeks of the campaign that would most help win your vote? [Options:  Lower grocery prices, Shorter healthcare waits, Affordable housing, Reduce immigration levels, Affordable education, None of these/something else]
+
+4. Which statement best describes how you see our party’s current platform? [Options: It focuses on the right issues for Canada's future, It has some good ideas but lacks clarity on execution, It does not address the issues that matter to me, I do not feel informed enough about the platform]
+
+5. Which age group do you belong to? [Options: 18–24, 25–34, 35–49, 50–64, 65 or older]
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +78,22 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type:The survey used a stratified multi-stage probability sampling design. GSS Cycle 33 divided regions by province and Census Metropolitan Areas (CMAs) to cover all areas fairly.
+2. Sample size: 16,149 people from across Canada completed the survey.
+3. Target population: People aged 15 and older living in the ten Canadian provinces. It did not include people living full-time in institutions (like care homes, prisons, or hospitals), people on the Yukon, Northwest Territories, or Nunavut.
+4. Sampling frame:The survey used a dual-frame approach, combining lists of phone numbers with Statistics Canada’s address-based Dwelling frame.
+5. Survey mode(s): The survey used both online and phone methods. 
+6. Timeline: Data was collected from September 4 to December 28, 2018. 
+7. Response rate: The overall response rate is 41.9%.
+8. Weights: The dataset includes a final person weight (WGHT_PER) that adjusts for household and person selection and non-response.
+9. Data processing: Data capture occurred automatically through the system.
+10. Cleaning, imputation, etc: The data were checked automatically for errors using the Social Survey Processing Environment (SSPE). Missing information, like age, sex, or income, was filled in using donor imputation methods.
+11. Sources of error: There can be differences because the survey used a sample of 16,149 people instead of the whole country. Other source can be that three territories were not included.
+12. Limitations, known biases, etc: The exclusion of the territories means the data cannot be generalized to Canada's northern population, and also the respondents can be subject to social desirability bias (a documented tendency to over-report their donation or give responses that can be more acceptable, even when it is not their true opinion).
+13. Link to documentation and any additional sources used. 
+-Statistics Canada Integrated Metadatabase (IMDB) Record Number 4430:https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430
+
+- Odesi Microdata Repository, GSS 2018 (Cycle 33) User Guide & Documentation: https://odesi.ca/en/details?id=/odesi/doi__10-5683_SP3_U1AYY0.xml
 ```
 
 ## Rubric
