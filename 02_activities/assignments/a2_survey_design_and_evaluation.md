@@ -50,9 +50,9 @@ This survey is designed to find out how the priorities, policy preferences, and 
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
--Target population: Canadian citizens aged 18 or older currently residing in in competitive swing districts, who are eligible to vote in the upcoming federal election. 
+-Target population: Canadian citizens aged 18 or older currently residing in competitive swing districts, who are eligible to vote in the upcoming federal election. 
 
--Sampling frame: comertial online panels,party contact lists, and supplemental mail or in person surveys if necessary. 
+-Sampling frame: commercial online panels,party contact lists, and supplemental mail or in person surveys if necessary. 
 
 -Sampling units: specific households, chosen through a stratified random sampling method.
 
@@ -80,16 +80,16 @@ Identify and describe survey features:
 ```
 1. Sample type:The survey used a stratified multi-stage probability sampling design. GSS Cycle 33 divided regions by province and Census Metropolitan Areas (CMAs) to cover all areas fairly.
 2. Sample size: 16,149 people from across Canada completed the survey.
-3. Target population: People aged 15 and older living in the ten Canadian provinces. It did not include people living full-time in institutions (like care homes, prisons, or hospitals), people on Indian Reserves, or living in the Yukon, Northwest Territories, or Nunavut.
+3. Target population: People aged 15 and older living in the ten Canadian provinces. It did not include people living full-time in institutions (like care homes, prisons, or hospitals), people on the Yukon, Northwest Territories, or Nunavut.
 4. Sampling frame:The survey used a dual-frame approach, combining lists of phone numbers with Statistics Canada’s address-based Dwelling frame.
 5. Survey mode(s): The survey used both online and phone methods. 
 6. Timeline: Data was collected from September 4 to December 28, 2018. 
-7. Response rate: The response rate was approximately 40.3%.
+7. Response rate: The overall response rate is 41.9%.
 8. Weights: The dataset includes a final person weight (WGHT_PER) that adjusts for household and person selection and non-response.
 9. Data processing: Data capture occurred automatically through the system.
 10. Cleaning, imputation, etc: The data were checked automatically for errors using the Social Survey Processing Environment (SSPE). Missing information, like age, sex, or income, was filled in using donor imputation methods.
-11. Sources of error: There can be differences because the survey used a sample of 16,149 people instead of the whole country, and there is a missing of the three territories and reserves.
-12. Limitations, known biases, etc: The complete exclusion of the territories and First Nations reserves means the data cannot be generalized to Canada's northern or indigenous populations, and also the respondents can be subject to social desirability bias (a documented tendency to over-report their donation or give responses that can be more acceptable, even when it is not their true opinion).
+11. Sources of error: There can be differences because the survey used a sample of 16,149 people instead of the whole country. Other source can be that three territories were not included.
+12. Limitations, known biases, etc: The exclusion of the territories means the data cannot be generalized to Canada's northern population, and also the respondents can be subject to social desirability bias (a documented tendency to over-report their donation or give responses that can be more acceptable, even when it is not their true opinion).
 13. Link to documentation and any additional sources used. 
 -Statistics Canada Integrated Metadatabase (IMDB) Record Number 4430:https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430
 
